@@ -1,0 +1,113 @@
+{
+  "sofa_komfort": {
+    "bytes": 576620,
+    "triangles": 16860,
+    "animations": [
+      [
+        "Раскладывание",
+        3.5,
+        3
+      ],
+      [
+        "Складывание",
+        3.5,
+        3
+      ]
+    ],
+    "materials": 5,
+    "images": 4
+  },
+  "sofa_skandi": {
+    "bytes": 650480,
+    "triangles": 18938,
+    "animations": [],
+    "materials": 4,
+    "images": 5
+  },
+  "armchair_loft": {
+    "bytes": 553804,
+    "triangles": 15722,
+    "animations": [],
+    "materials": 4,
+    "images": 5
+  },
+  "armchair_relax": {
+    "bytes": 414628,
+    "triangles": 10794,
+    "animations": [
+      [
+        "Разложить",
+        2.6,
+        3
+      ],
+      [
+        "Сложить",
+        2.6,
+        3
+      ]
+    ],
+    "materials": 4,
+    "images": 3
+  },
+  "table_elegant": {
+    "bytes": 265896,
+    "triangles": 6880,
+    "animations": [
+      [
+        "Раздвинуть стол",
+        2.5,
+        3
+      ],
+      [
+        "Сдвинуть стол",
+        2.5,
+        3
+      ]
+    ],
+    "materials": 4,
+    "images": 4
+  },
+  "chair_nord": {
+    "bytes": 313072,
+    "triangles": 4754,
+    "animations": [],
+    "materials": 3,
+    "images": 5
+  },
+  "wardrobe_classic": {
+    "bytes": 543540,
+    "triangles": 7170,
+    "animations": [
+      [
+        "Открыть двери",
+        2.3,
+        2
+      ],
+      [
+        "Закрыть двери",
+        2.3,
+        2
+      ]
+    ],
+    "materials": 7,
+    "images": 9
+  },
+  "dresser_praktik": {
+    "bytes": 348880,
+    "triangles": 7362,
+    "animations": [
+      [
+        "Открыть ящики",
+        1.9,
+        4
+      ],
+      [
+        "Закрыть ящики",
+        1.9,
+        4
+      ]
+    ],
+    "materials": 5,
+    "images": 5
+  }
+}
